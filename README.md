@@ -17,7 +17,9 @@ CALCULATOR REACT JS
 
 [//]: # (Add your gifs/images here:)
 <div>
+  <p align="center">
   <img src="https://drive.google.com/uc?id=1GsxPq9ds9WA-m0_ftpp-J4HWYApvY7Ef" alt="demo" height="425">
+   </p>
 </div>
 
 <hr />
