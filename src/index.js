@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <div>
-        <h1>Calculator</h1>
+        <h1>Calculator React</h1>
         <Calculator />
     </div>
   </React.StrictMode>,
