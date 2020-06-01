@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="https://i2.wp.com/blog.hariken.co/wp-content/uploads/2019/03/react-logo.png?ssl=1" alt="CALCULATOR REACT JS" width="120">
+  <img src="./resource/logo.png" alt="CALCULATOR REACT JS" width="120">
 <br>
 <br>
 CALCULATOR REACT JS
@@ -18,7 +18,7 @@ CALCULATOR REACT JS
 [//]: # (Add your gifs/images here:)
 <div>
   <p align="center">
-  <img src="https://drive.google.com/uc?id=1GsxPq9ds9WA-m0_ftpp-J4HWYApvY7Ef" alt="demo" height="425">
+  <img src="./resource/calculatorDemo.gif" alt="demo" height="425">
    </p>
 </div>
 
